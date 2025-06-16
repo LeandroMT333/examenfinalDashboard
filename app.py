@@ -7,8 +7,8 @@ from bson.decimal128 import Decimal128
 app = Flask(__name__)
 
 # Conexión a MongoDB
-usuario = "LeandroMT369"
-password = "Nikitinh0369"  
+usuario = ""
+password = ""  
 cluster = "cluster0.9ivhqes.mongodb.net"
 dbname = "examenfinal"
 
